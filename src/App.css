@@ -1,0 +1,26 @@
+.login-form {
+    top: 30vh;
+    position: relative;
+}
+
+.warning-text {
+    font-size: 12px;
+    color: red;
+    margin-top: 0.25rem;
+}
+
+.page-not-found {
+    top: 40vh;
+    position: relative;
+    color: #888888;
+    font-size: xx-large;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.todo-table {
+    overflow: auto;
+    height: calc(100vh - 140px);
+}
