@@ -1,10 +1,10 @@
+import { Card, Form, Modal, Row } from 'react-bootstrap';
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 import _ from 'lodash';
 
 import Navbar from './components/Navbar';
 import Pagination from './components/Pagination';
-import { Card, Form, Modal, Row } from 'react-bootstrap';
 
 const PAGE_SIZE = 50;
 
